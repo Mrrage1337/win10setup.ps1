@@ -13,3 +13,12 @@ choco install notepadplusplus -y
 choco install GoogleChrome -y
 choco install putty -y
 choco install ccleaner -y
+choco install steam -y
+choco install winrar -y
+choco install malwarebytes -y
+choco install dotnetfx -y
+choco install python3 -y
+choco install python2 -y
+choco install jdk8 -y
+choco install audacity -y
+choco install obs-studio -y
