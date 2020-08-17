@@ -16,9 +16,24 @@ choco install ccleaner -y
 choco install steam -y
 choco install winrar -y
 choco install malwarebytes -y
-choco install dotnetfx -y
-choco install python3 -y
-choco install python2 -y
-choco install jdk8 -y
 choco install audacity -y
 choco install obs-studio -y
+choco install icue -y
+choco install virtualbox -y
+choco install virtualbox-guest-additions-guest.install -y
+choco install vlc -y
+choco install twitch -y
+choco install acestream -y
+choco install soulseek -y
+choco install x2go -y
+choco install greenshot -y
+choco install origin -y
+choco install logitechgaming -y
+
+# Install Utilities
+choco install dropbox
+choco install googledrive
+choco install python3 -y
+choco install python2 -y
+choco install dotnetfx -y
+choco install jdk8 -y
