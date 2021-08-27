@@ -22,12 +22,12 @@ choco install icue -y
 choco install virtualbox -y
 choco install virtualbox-guest-additions-guest.install -y
 choco install vlc -y
-choco install twitch -y
-choco install acestream -y
 choco install soulseek -y
 choco install greenshot -y
 choco install origin -y
 choco install rufus -y 
+choco install nvidia-geforce-now -y
+choco install greenshot -y
 
 # Install Utilities
 choco install dropbox
