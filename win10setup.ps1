@@ -7,7 +7,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass
 choco install spotify -y
 choco install discord -y
 choco install battle.net -y
-choco install filezilla -y
+choco install winscp -y
 choco install openvpn -y
 choco install notepadplusplus -y
 choco install GoogleChrome -y
@@ -25,10 +25,9 @@ choco install vlc -y
 choco install twitch -y
 choco install acestream -y
 choco install soulseek -y
-choco install x2go -y
 choco install greenshot -y
 choco install origin -y
-choco install logitechgaming -y
+choco install rufus -y 
 
 # Install Utilities
 choco install dropbox
@@ -37,3 +36,4 @@ choco install python3 -y
 choco install python2 -y
 choco install dotnetfx -y
 choco install jdk8 -y
+choco install jre8 -y
