@@ -16,22 +16,18 @@ choco install ccleaner -y
 choco install steam -y
 choco install winrar -y
 choco install malwarebytes -y
-choco install audacity -y
 choco install obs-studio -y
 choco install icue -y
 choco install virtualbox -y
 choco install virtualbox-guest-additions-guest.install -y
 choco install vlc -y
-choco install soulseek -y
 choco install greenshot -y
-choco install origin -y
 choco install rufus -y 
-choco install nvidia-geforce-now -y
 choco install greenshot -y
 
 # Install Utilities
-choco install dropbox
-choco install googledrive
+choco install dropbox -y
+choco install googledrive -y 
 choco install python3 -y
 choco install python2 -y
 choco install dotnetfx -y
